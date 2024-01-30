@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(183, 182, 182);
+    border-radius: 20px;
+}
+#user{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(5, 188, 5);
+    color: aliceblue;
+}
+
+#lepra{
+    position: fixed;
+    bottom: 30px;
+    right: 10px;
+    height: 300px;
+    width: 300px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    border-color: black;
+    border: solid 1; 
+    text-align: center;
+}
+form{
+    display: absolute;
+    padding: 209px 239px;
+    text-align: center;
+}
